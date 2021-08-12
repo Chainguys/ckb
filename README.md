@@ -1,2 +1,2 @@
 # ckb
-ckb
+ckb gitcoin
